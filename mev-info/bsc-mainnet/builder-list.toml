@@ -210,21 +210,3 @@ Address = "0xFD3F1Ad459D585C50Cf4630649817C6E0cec7335"
 RPC = "https://bsc-mainnet-builder.nodereal.io"
 Website = "https://nodereal.io/"
 Description = "Advanced Infrastructure Provider for EVM blockchains."
-
-[txboost-ap]
-Address = "0x6Dddf681C908705472D09B1D7036B2241B50e5c7"
-RPC = "https://bsc-builder-report.txboost.io"
-Website = "https://account.txboost.io"
-Description = "We Empower Teams to Excel in DeFi Trading"
-
-[txboost-eu]
-Address = "0x76736159984AE865a9b9Cc0Df61484A49dA68191"
-RPC = "https://bsc-builder-report.txboost.io"
-Website = "https://account.txboost.io"
-Description = "We Empower Teams to Excel in DeFi Trading"
-
-[txboost-us]
-Address = "0x5054b21D8baea3d602dca8761B235ee10bc0231E"
-RPC = "https://bsc-builder-report.txboost.io"
-Website = "https://account.txboost.io"
-Description = "We Empower Teams to Excel in DeFi Trading"
